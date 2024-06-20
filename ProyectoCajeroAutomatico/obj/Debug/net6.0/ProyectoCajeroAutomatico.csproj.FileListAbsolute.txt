@@ -1,0 +1,44 @@
+C:/Users/david/OneDrive/Documentos/T1474 PROGRAMACIÓN I/S9/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico.exe
+C:/Users/david/OneDrive/Documentos/T1474 PROGRAMACIÓN I/S9/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico.deps.json
+C:/Users/david/OneDrive/Documentos/T1474 PROGRAMACIÓN I/S9/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico.runtimeconfig.json
+C:/Users/david/OneDrive/Documentos/T1474 PROGRAMACIÓN I/S9/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico.dll
+C:/Users/david/OneDrive/Documentos/T1474 PROGRAMACIÓN I/S9/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico.pdb
+C:/Users/david/OneDrive/Documentos/T1474 PROGRAMACIÓN I/S9/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/david/OneDrive/Documentos/T1474 PROGRAMACIÓN I/S9/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.AssemblyInfoInputs.cache
+C:/Users/david/OneDrive/Documentos/T1474 PROGRAMACIÓN I/S9/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.AssemblyInfo.cs
+C:/Users/david/OneDrive/Documentos/T1474 PROGRAMACIÓN I/S9/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.csproj.CoreCompileInputs.cache
+C:/Users/david/OneDrive/Documentos/T1474 PROGRAMACIÓN I/S9/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.dll
+C:/Users/david/OneDrive/Documentos/T1474 PROGRAMACIÓN I/S9/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/refint/ProyectoCajeroAutomatico.dll
+C:/Users/david/OneDrive/Documentos/T1474 PROGRAMACIÓN I/S9/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.pdb
+C:/Users/david/OneDrive/Documentos/T1474 PROGRAMACIÓN I/S9/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.genruntimeconfig.cache
+C:/Users/david/OneDrive/Documentos/T1474 PROGRAMACIÓN I/S9/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ref/ProyectoCajeroAutomatico.dll
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico.deps.json
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico.runtimeconfig.json
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico.dll
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico.pdb
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.csproj.AssemblyReference.cache
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.AssemblyInfoInputs.cache
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.AssemblyInfo.cs
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.csproj.CoreCompileInputs.cache
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.dll
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/refint/ProyectoCajeroAutomatico.dll
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.pdb
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.genruntimeconfig.cache
+/Users/carlosgarcia/Downloads/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ref/ProyectoCajeroAutomatico.dll
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico.deps.json
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico.runtimeconfig.json
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico.dll
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/bin/Debug/net6.0/ProyectoCajeroAutomatico.pdb
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.csproj.AssemblyReference.cache
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.AssemblyInfoInputs.cache
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.AssemblyInfo.cs
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.csproj.CoreCompileInputs.cache
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.dll
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/refint/ProyectoCajeroAutomatico.dll
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.pdb
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ProyectoCajeroAutomatico.genruntimeconfig.cache
+/Users/carlosgarcia/Documents/Universidad/2024/Q2/Programacion I/ProyectoCajeroAutomatico/ProyectoCajeroAutomatico/obj/Debug/net6.0/ref/ProyectoCajeroAutomatico.dll
